@@ -22,3 +22,5 @@ Thumbs.db
 /app/Console/
 /lib/Cake/
 /app/Controller/PagesController.php
+/app/webroot/test.php
+/app/Test/
