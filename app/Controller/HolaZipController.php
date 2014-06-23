@@ -8,7 +8,7 @@ App::uses('AppController', 'Controller');
 class HolaZipController extends AppController {
 
     /**
-     * This controller does not use a model
+     * This controller does not use a model 
      *
      * @var array
      */
