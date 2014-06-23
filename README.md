@@ -8,8 +8,8 @@ Este componente requiere de la extencion Zip y PHP 5.3.x o superior.
 
 Component es: ZipComponent.php
 ==============================
-/app/Controller/Component/ZipComponent.php
+Path: /app/Controller/Component/ZipComponent.php
 
-Demo del uso estan en: HolaZipController.php
+Demo como utilizarlo esta el controller: HolaZipController.php
 ============================================
-/app/Controller/HolaZipController.php
+Path: /app/Controller/HolaZipController.php
